@@ -1,0 +1,25 @@
+.nav-link:hover {
+    background-color: grey;
+}
+
+.card-body-icon {
+    position: absolute;
+    z-index: 0;
+    opacity: .4;
+    top: 25px;
+    right: 5px;
+    font-size: 90px;
+}
+
+.top-side-bar {
+    top: 56px;
+    bottom: 0px;
+}
+
+.container-side-right{
+    margin-left: 250px;
+}
+
+.upper {
+    text-transform: uppercase;
+}
